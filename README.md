@@ -15,4 +15,8 @@ Pipewire with EasyEffects
 
 
 ## Screenshot
-![My Setup](https://raw.githubusercontent.com/Stalkero/MSILaptop/main/Screenshots/screenshot1.png)
+![My Setup ](https://raw.githubusercontent.com/Stalkero/msi-laptop-reworked/main/Screenshots/Screenshot_main.png)
+![My Setup ](https://raw.githubusercontent.com/Stalkero/msi-laptop-reworked/main/Screenshots/Screenshot_1.png)
+![My Setup ](https://raw.githubusercontent.com/Stalkero/msi-laptop-reworked/main/Screenshots/Screenshot_2.png)
+![My Setup ](https://raw.githubusercontent.com/Stalkero/msi-laptop-reworked/main/Screenshots/Screenshot_3.png)
+![My Setup ](https://raw.githubusercontent.com/Stalkero/msi-laptop-reworked/main/Screenshots/Screenshot_4.png)
