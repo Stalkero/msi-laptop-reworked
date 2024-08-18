@@ -1,0 +1,133 @@
+{
+    "output": {
+        "blocklist": [],
+        "equalizer#0": {
+            "balance": 0.0,
+            "bypass": false,
+            "input-gain": 0.0,
+            "left": {
+                "band0": {
+                    "frequency": 36.0,
+                    "gain": 6.81,
+                    "mode": "RLC (BT)",
+                    "mute": false,
+                    "q": 0.30000000000000004,
+                    "slope": "x2",
+                    "solo": false,
+                    "type": "Bell",
+                    "width": 4.0
+                },
+                "band1": {
+                    "frequency": 80.0,
+                    "gain": 6.98,
+                    "mode": "RLC (MT)",
+                    "mute": false,
+                    "q": 0.24999999999999978,
+                    "slope": "x3",
+                    "solo": false,
+                    "type": "Bell",
+                    "width": 4.0
+                },
+                "band2": {
+                    "frequency": 4700.0,
+                    "gain": 1.78,
+                    "mode": "RLC (BT)",
+                    "mute": false,
+                    "q": 0.6300000000000001,
+                    "slope": "x1",
+                    "solo": false,
+                    "type": "Bell",
+                    "width": 4.0
+                },
+                "band3": {
+                    "frequency": 5000.0,
+                    "gain": 4.21,
+                    "mode": "RLC (BT)",
+                    "mute": false,
+                    "q": 0.5700000000000001,
+                    "slope": "x1",
+                    "solo": false,
+                    "type": "Bell",
+                    "width": 4.0
+                },
+                "band4": {
+                    "frequency": 600.0,
+                    "gain": 1.9,
+                    "mode": "RLC (BT)",
+                    "mute": true,
+                    "q": 0.66,
+                    "slope": "x1",
+                    "solo": false,
+                    "type": "Bell",
+                    "width": 4.0
+                }
+            },
+            "mode": "FFT",
+            "num-bands": 5,
+            "output-gain": 0.0,
+            "pitch-left": 0.0,
+            "pitch-right": 0.0,
+            "right": {
+                "band0": {
+                    "frequency": 36.0,
+                    "gain": 6.81,
+                    "mode": "RLC (BT)",
+                    "mute": false,
+                    "q": 0.30000000000000004,
+                    "slope": "x2",
+                    "solo": false,
+                    "type": "Bell",
+                    "width": 4.0
+                },
+                "band1": {
+                    "frequency": 80.0,
+                    "gain": 6.98,
+                    "mode": "RLC (MT)",
+                    "mute": false,
+                    "q": 0.24999999999999978,
+                    "slope": "x3",
+                    "solo": false,
+                    "type": "Bell",
+                    "width": 4.0
+                },
+                "band2": {
+                    "frequency": 4700.0,
+                    "gain": 1.78,
+                    "mode": "RLC (BT)",
+                    "mute": false,
+                    "q": 0.6300000000000001,
+                    "slope": "x1",
+                    "solo": false,
+                    "type": "Bell",
+                    "width": 4.0
+                },
+                "band3": {
+                    "frequency": 5000.0,
+                    "gain": 4.21,
+                    "mode": "RLC (BT)",
+                    "mute": false,
+                    "q": 0.5700000000000001,
+                    "slope": "x1",
+                    "solo": false,
+                    "type": "Bell",
+                    "width": 4.0
+                },
+                "band4": {
+                    "frequency": 600.0,
+                    "gain": 1.9,
+                    "mode": "RLC (BT)",
+                    "mute": true,
+                    "q": 0.66,
+                    "slope": "x1",
+                    "solo": false,
+                    "type": "Bell",
+                    "width": 4.0
+                }
+            },
+            "split-channels": false
+        },
+        "plugins_order": [
+            "equalizer#0"
+        ]
+    }
+}
