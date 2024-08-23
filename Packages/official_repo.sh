@@ -48,6 +48,8 @@ imagemagick \
 imv \
 jre-openjdk \
 jre-openjdk-headless \
+libva \
+libva-nvidia-driver \
 lib32-gnutls \
 lib32-nvidia-utils \
 lib32-vulkan-icd-loader \
