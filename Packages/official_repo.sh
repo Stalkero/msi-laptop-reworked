@@ -49,6 +49,7 @@ imv \
 jre-openjdk \
 jre-openjdk-headless \
 libva \
+libva-utils \
 libva-nvidia-driver \
 lib32-gnutls \
 lib32-nvidia-utils \
