@@ -3,7 +3,7 @@ By default Vencord does not have any ability to display any RPC from games becau
 
 ## To fix it, firstly install **WebRichPresence** plugin on your Vencord client
 
-Here comes the screen
+![](https://raw.githubusercontent.com/Stalkero/msi-laptop-reworked/main/Screenshots/vencord_rpc/vencord_rpc.png)
 
 ## Second **the most important step** is to install **arRPC** server 
 i recommend installing globally via npm package manager, cause you have ability to run commands directly in terminal as a simple one command which is usefull in DE's like in KDE Plasma where you an add in autostart just commands
